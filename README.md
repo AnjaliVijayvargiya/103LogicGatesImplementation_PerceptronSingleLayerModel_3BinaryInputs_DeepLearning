@@ -8,4 +8,5 @@ because perceptron can not solve non-linear separable problems.
 1. https://www.electrical4u.com/exclusive-or-gate/
 2. https://www.saedsayad.com/artificial_neural_network_bkp.htm
 3. https://towardsdatascience.com/beginners-ask-how-many-hidden-layers-neurons-to-use-in-artificial-neural-networks-51466afa0d3e
-4. 
+4. https://stackabuse.com/creating-a-neural-network-from-scratch-in-python/
+
